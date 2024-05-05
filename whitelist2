@@ -1,3 +1,29 @@
 ||mozilla.com^
 ||mozilla.org^
 s.youtube.com
+
+# msft verify connectivity
+www.msftncsi.com www.msftconnecttest.com
+
+# Microsoft Store
+dl.delivery.mp.microsoft.com
+geo-prod.do.dsp.mp.microsoft.com
+displaycatalog.mp.microsoft.com
+
+# Msft Edge
+msedge.api.cdp.microsoft.com
+
+#Backup bitlocker recovery key to Microsoft account
+g.live.com
+
+# Xbox Live
+clientconfig.passport.net
+# Xbox Live Achievements (confirmed by Microsoft)
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+
+# Store App on Series X/S
+arc.msn.com
+
+# Office
+officeclient.microsoft.com
