@@ -3,7 +3,8 @@
 s.youtube.com
 
 # msft verify connectivity
-www.msftncsi.com www.msftconnecttest.com
+www.msftncsi.com
+www.msftconnecttest.com
 
 # Microsoft Store
 dl.delivery.mp.microsoft.com
